@@ -1,0 +1,10 @@
+Model,Selected_Features
+Logistic Regression,"['daily_time_spent_on_site', 'age', 'area_income', 'daily_internet_usage', 'male', 'time_usage_ratio', 'age_group', 'hour', 'city_freq', 'province_freq', 'category_freq', 'day_of_week_1', 'day_of_week_2', 'day_of_week_3', 'day_of_week_6']"
+SVM,"['daily_time_spent_on_site', 'age', 'area_income', 'daily_internet_usage', 'male', 'time_usage_ratio', 'age_group', 'hour', 'city_freq', 'province_freq', 'category_freq', 'day_of_week_1', 'day_of_week_2', 'day_of_week_3', 'day_of_week_4', 'day_of_week_5', 'day_of_week_6']"
+Naive Bayes,"['daily_time_spent_on_site', 'age', 'area_income', 'daily_internet_usage', 'male', 'time_usage_ratio', 'age_group', 'city_freq', 'category_freq', 'day_of_week_5']"
+Random Forest,"['daily_internet_usage', 'daily_time_spent_on_site', 'area_income', 'age', 'time_usage_ratio', 'age_group', 'hour']"
+Extra Trees,"['daily_internet_usage', 'daily_time_spent_on_site', 'area_income', 'age', 'time_usage_ratio', 'age_group', 'hour', 'province_freq', 'category_freq', 'city_freq']"
+Gradient Boosting,"['daily_internet_usage', 'daily_time_spent_on_site', 'area_income']"
+XGBoost,"['daily_internet_usage', 'daily_time_spent_on_site', 'area_income', 'age', 'city_freq', 'province_freq', 'hour', 'time_usage_ratio', 'day_of_week_3', 'category_freq']"
+CatBoost,['daily_internet_usage']
+KNN,"['daily_time_spent_on_site', 'age', 'area_income', 'daily_internet_usage', 'male', 'time_usage_ratio', 'age_group', 'hour', 'city_freq', 'province_freq', 'category_freq', 'day_of_week_1', 'day_of_week_2', 'day_of_week_3', 'day_of_week_4', 'day_of_week_5', 'day_of_week_6']"
